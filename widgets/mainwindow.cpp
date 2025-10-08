@@ -1308,7 +1308,7 @@ MainWindow::MainWindow(QDir const& temp_directory, bool multiple,
   //avt 9/24/25
   debugToFile("******************************* Starting *******************************");
   //testing# included:
-  debugToFile(QString{"17           data_dir:'%1' writeable_data_dir:'%2'"}.arg(m_config.data_dir().absolutePath()).arg(m_config.writeable_data_dir().absolutePath()));
+  debugToFile(QString{"18           data_dir:'%1' writeable_data_dir:'%2'"}.arg(m_config.data_dir().absolutePath()).arg(m_config.writeable_data_dir().absolutePath()));
   debugToFile("             sslLibVer:" + QSslSocket::sslLibraryVersionString() + " sslLibBuild:" + QSslSocket::sslLibraryBuildVersionString()); 
 
   setIncrLogCount();    //avt 9/25/25
