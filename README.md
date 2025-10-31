@@ -1,5 +1,7 @@
 # WSJT-X 2.7.0 GA (modified)
- WSJT-X 2.7.0 GA ("general availability" as released February 17, 2025), modified for use with "Otto")
+ WSJT-X 2.7.0 GA ("general availability" as released February 17, 2025), modified for use with "Otto".
+ <br><i>Note that WSJT-X 2.7.0 had an unusually large number of new features added (sourced from "WSJT-X Improved") for the GA release.
+ <br>This modified version contains all of those features, in addition to the features added since RC4 ("release candidate").</i>
  <br><br>Download the installer from the release page: 
  <br>https://github.com/avantol/WSJT-X_2.7.0-GA/releases/latest
  <br><br>Download Otto.msi (required*) at https://github.com/avantol/WSJTX-Controller-v2
